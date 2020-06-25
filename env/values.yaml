@@ -13,7 +13,7 @@ expose:
   - --v
   - 4
   config:
-    domain: 34.77.26.8.nip.io
+    domain: jenkins-x.live
     exposer: Ingress
     http: "true"
     tlsacme: "false"
